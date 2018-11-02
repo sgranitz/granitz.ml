@@ -17,8 +17,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     favicon             = "sam.ico"
     homepage            = "start"
     galleryFolder       = "images/" # Where you've put your images, after "/content/gallery/"
-    clickablePhotos     = true # Allow links to the full size images
-    smallPreviewImages  = true 
+    clickablePhotos     = false
+    smallPreviewImages  = false 
     
     # Show small images from the subfolder instead of the big versions in the gallery
     # Note: This will only become active if clickablePhotos is also true.
