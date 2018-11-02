@@ -41,7 +41,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     text = "notes on math, statistics, and ai"
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "/books"
     text = "recent books"
 
 [[params.mainMenu]]
