@@ -27,7 +27,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # The subfolder for the small versions of the images under the gallery (with trailing slash)
     # For each image the small version has to have the same filename as the big version.
     
-    footerText          = "notes on math, statistics, and ai"
+    footerText          = "Tolstoy: 'The most important knowledge is that which guides the way you lead your life.'"
 
     description         = "notes on math, statistics, and ai" # max 160 char
     twitterCard         = "summary_large_image"
